@@ -1,7 +1,12 @@
 # tugascrud
  uts perograman web
+ 
+ login
+ ![Screenshot_8](https://user-images.githubusercontent.com/99938462/157811138-695fdf4b-65d9-4db7-ad92-31aa305bdd87.png)
+
+ 
 create 
-![Screenshot_8](https://user-images.githubusercontent.com/99938462/157804415-5a12e4de-0bf3-4dec-9e4e-165cb74a79fd.png)
+![Screenshot_12](https://user-images.githubusercontent.com/99938462/157810868-ae438674-6cfd-4be7-b731-d9ce927877b1.png)
 
 read
 ![Screenshot_9](https://user-images.githubusercontent.com/99938462/157804519-f532d7be-d934-4f7a-b658-03c95d28f777.png)
